@@ -1,0 +1,132 @@
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/CRUDStudentApp
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/CRUDStudentApp.deps.json
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/CRUDStudentApp.runtimeconfig.json
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/CRUDStudentApp.runtimeconfig.dev.json
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/CRUDStudentApp.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/CRUDStudentApp.pdb
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/obj/Debug/netcoreapp3.1/CRUDStudentApp.csprojAssemblyReference.cache
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/obj/Debug/netcoreapp3.1/CRUDStudentApp.AssemblyInfoInputs.cache
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/obj/Debug/netcoreapp3.1/CRUDStudentApp.AssemblyInfo.cs
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/obj/Debug/netcoreapp3.1/CRUDStudentApp.csproj.CopyComplete
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/obj/Debug/netcoreapp3.1/CRUDStudentApp.dll
+/home/pelin/RiderProjects/CRUDStudentApp/CRUDStudentApp/obj/Debug/netcoreapp3.1/CRUDStudentApp.pdb
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\CRUDStudentApp.exe
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\CRUDStudentApp.deps.json
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\CRUDStudentApp.runtimeconfig.json
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\CRUDStudentApp.runtimeconfig.dev.json
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\CRUDStudentApp.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\CRUDStudentApp.pdb
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\obj\Debug\netcoreapp3.1\CRUDStudentApp.csprojAssemblyReference.cache
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\obj\Debug\netcoreapp3.1\CRUDStudentApp.AssemblyInfoInputs.cache
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\obj\Debug\netcoreapp3.1\CRUDStudentApp.AssemblyInfo.cs
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\obj\Debug\netcoreapp3.1\CRUDStudentApp.csproj.CopyComplete
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\obj\Debug\netcoreapp3.1\CRUDStudentApp.dll
+D:\WRONG\UPDATE YOUR KNWOLEDGE\UNIVERSITY OF RWANDA\INFORMATION TECHNOLOGY (IT)\LEVEL 3\Year 3 semester I\.NET APPLICATION\EF-Core-CRUD-ConsoleApp-master\obj\Debug\netcoreapp3.1\CRUDStudentApp.pdb
